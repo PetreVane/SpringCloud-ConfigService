@@ -1,1 +1,2 @@
-/Volumes/SecondaryDrive/Spring/MicroServices-Course/Photo-backend/config-server/src/main/java/photobackend/configserver/ConfigServerApplication.java
+/Volumes/SecondaryDrive/Spring/photo-backend-microservices/config-server/src/main/java/photobackend/configserver/ConfigServerApplication.java
+/Volumes/SecondaryDrive/Spring/photo-backend-microservices/config-server/src/main/java/photobackend/configserver/logs/LogstashAppenderConfiguration.java
